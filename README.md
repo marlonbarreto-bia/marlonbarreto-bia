@@ -34,6 +34,10 @@ My name is Marlon, if you prefer you can call me Marliton, I was born on planet 
 ![ClickUp](https://img.shields.io/badge/ClickUp-%23ff0077.svg?style=for-the-badge&logo=clickup&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+
+## 🏆 GitHub Trophies
+[![Marliton's Github Trophies](https://github-profile-trophy.vercel.app/?username=marlonbarreto-bia&theme=monokai&no-frame=false&no-bg=false&margin-w=4)](https://github.com/marlonbarreto-bia)
+
 ## 📈 Github Stats
 
 [![Marliton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marlonbarreto-bia&count_private=true&show_icons=true&theme=monokai&hide_border=true&border_radius=10)](https://github.com/marlonbarreto-bia)
@@ -41,6 +45,3 @@ My name is Marlon, if you prefer you can call me Marliton, I was born on planet 
 [![GitHub Streak](https://streak-stats.demolab.com?user=marlonbarreto-bia&theme=monokai&hide_border=true&border_radius=10)](https://github.com/marlonbarreto-bia)
 
 [![Marliton's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonbarreto-bia&layout=compact&count_private=true&theme=monokai&hide_border=true&border_radius=10)](https://github.com/marlonbarreto-bia)
-
-## 🏆 GitHub Trophies
-[![Marliton's Github Trophies](https://github-profile-trophy.vercel.app/?username=marlonbarreto-bia&theme=monokai&no-frame=false&no-bg=false&margin-w=4)](https://github.com/marlonbarreto-bia)
