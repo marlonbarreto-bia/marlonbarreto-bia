@@ -44,4 +44,4 @@ My name is Marlon, if you prefer you can call me Marliton, I was born on planet 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=marlonbarreto-bia&theme=monokai&hide_border=true&border_radius=10)](https://github.com/marlonbarreto-bia)
 
-[![Marliton's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonbarreto-bia&layout=compact&count_private=true&theme=monokai&hide_border=true&border_radius=10)](https://github.com/marlonbarreto-bia)
+[![Marliton's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marlonbarreto-git&layout=compact&count_private=true&theme=monokai&hide_border=true&border_radius=10)](https://github.com/marlonbarreto-git)
